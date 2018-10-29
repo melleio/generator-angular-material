@@ -1,12 +1,12 @@
 {
   "name": "generator-angular-material",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Google's Angular Material",
-  "homepage": "https://github.com/iansawyerva/generator-angular-material",
+  "homepage": "https://github.com/melleio/generator-angular-material",
   "author": {
-    "name": "Ian Sawyer",
-    "email": "ian.sawyer.js@gmail.com",
-    "url": "https://github.com/iansawyerva"
+    "name": "melleio",
+    "email": "l@emelle.me",
+    "url": "https://github.com/melleio"
   },
   "files": [
     "generators"
